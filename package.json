@@ -1,5 +1,5 @@
 {
-  "name": "lessmess-eslint-config",
+  "name": "eslint-config-lessmess",
   "version": "0.0.1",
   "description": "ESLint config for Lessmess projects",
   "main": "index.js",
